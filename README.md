@@ -1,5 +1,7 @@
-<code>
-x = 5;
-y = 6;
-z = x + y;
-</code>
+class Test 
+{
+public static void main(String[] agrs)
+{
+System.out.println("Hlleoo");
+}
+}
